@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexis Jihye Ross"
+  name             : "Alexis J. Ross"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Senior at Harvard studying Computer Science and Philosophy. Interested in NLP and interpretable/explainable ML."
   location         : "Cambridge, MA"
