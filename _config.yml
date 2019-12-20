@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Senior at Harvard studying Computer Science and Philosophy. Interested in NLP and interpretable/explainable ML."
   location         : "Cambridge, MA"
-  email            :
+  email            : alexis_ross@college.harvard.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
