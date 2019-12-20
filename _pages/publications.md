@@ -7,6 +7,8 @@ comments: true
 ---
 
 <ul>
-<li>Najoung Kim, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, <strong>Alexis Ross</strong>, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. Probing what different NLP tasks teach machines about function word comprehension. <i>*SEM</i>, 2019. <strong>Best Paper Award</strong></li>
+<li><strong>Alexis Ross</strong> and Ellie Pavlick. How well do NLI models capture verb veridicality? <i>EMNLP, 2019</i>. <strong>Presented as Talk</strong>
+</li>
+<li>Najoung Kim, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, <strong>Alexis Ross</strong>, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. Probing what different NLP tasks teach machines about function word comprehension. <i>*SEM, 2019</i>. <strong>Best Paper Award</strong></li>
 </ul>
 
