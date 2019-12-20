@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Alexis Jihye Ross"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Senior at Harvard studying Computer Science and Philosophy. Interested in natural language processing and interpretable/explainable machine learning."
+  location         : "Cambridge, MA"
   email            :
   links:
     - label: "Email"
