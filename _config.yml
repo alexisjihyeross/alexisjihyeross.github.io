@@ -112,6 +112,7 @@ author:
   bio              : "Senior at Harvard studying Computer Science and Philosophy. Interested in NLP and interpretable/explainable ML."
   location         : "Cambridge, MA"
   email            : alexis_ross@college.harvard.edu
+  googlescholar	   : "https://scholar.google.com/citations?user=p8Ft6RQAAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
