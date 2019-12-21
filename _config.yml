@@ -113,6 +113,7 @@ author:
   location         : "Cambridge, MA"
   email            : alexis_ross@college.harvard.edu
   googlescholar	   : "https://scholar.google.com/citations?user=p8Ft6RQAAAAJ&hl=en"
+  github           : "alexisjihyeross"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
