@@ -1,4 +1,4 @@
----
+<!-- ---
 title:  "Publications"
 layout: archive 
 permalink: /publications/
@@ -14,3 +14,4 @@ comments: true
 <br>[<a href = "https://www.aclweb.org/anthology/S19-1026v2.pdf">Paper</a>] [<a href = "../assets/bibtex/function_words.bib">BibTex</a>]</li>
 </ul>
 
+ -->
