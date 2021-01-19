@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexis Jihye Ross"
+  name             : "Alexis Ross"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Predoctoral Researcher at AI2. Interested in natural language understanding and interpretable/explainable ML."
   location         : "Cambridge, MA"
