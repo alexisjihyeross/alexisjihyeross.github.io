@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Alexis Ross"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Predoctoral Researcher at AI2. Interested in natural language understanding and interpretable/explainable ML."
+  bio              : "Predoctoral Researcher at AI2 working on NLP."
   location         : "Cambridge, MA"
   email            : alexisr@allenai.org
   github           : "alexisjihyeross"
