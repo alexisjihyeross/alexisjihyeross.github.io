@@ -58,6 +58,7 @@ comments: true
 
 </ul>
 
+<br>
 <h1>Other Projects</h1>
 
 <ul>
