@@ -6,8 +6,6 @@ author_profile: true
 comments: true
 ---
 
-<h1>Publications</h1>
-
 <ul>
 
 	<li>
@@ -54,8 +52,6 @@ comments: true
 	</li>
 
 </ul>
-
-<br>
 
 <h1>Other Projects</h1>
 
