@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Alexis Ross"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : # "Predoctoral Researcher at AI2 working on NLP."
+  bio              : "Predoctoral Researcher at AI2 working on NLP."
   location         : "Seattle, WA"
   email            : alexisr@allenai.org
   github           : "alexisjihyeross"
