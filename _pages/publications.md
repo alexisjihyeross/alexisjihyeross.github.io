@@ -62,7 +62,6 @@ comments: true
 <ul>
 	<li>
 		<a href = "https://dash.harvard.edu/bitstream/handle/1/37364684/ROSS-SENIORTHESIS-2020.pdf?isAllowed=y&sequence=1">Using Linear Approximations to Explain Complex, Blackbox Classifiers</a>
-		Using Linear Approximations to Explain Complex, Blackbox Classifiers
 		<br>Advised by Hima Lakkaraju and Bernhard Nickel. 
 		<br><i>Joint Senior Thesis, Computer Science and Philosophy, 2020</i>. 
 		<br><strong>Hoopes Prize</strong>
