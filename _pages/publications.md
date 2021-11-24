@@ -6,10 +6,9 @@ author_profile: true
 comments: true
 ---
 
-<h2>2021</h2>
+<strong>2021</strong>
 
 <ul>
-
 	<li>
 		<a href = "https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a>
 		<br><strong>Alexis Ross*</strong>, Tongshuang Wu*, Hao Peng, Matthew E. Peters, Matt Gardner
@@ -36,8 +35,8 @@ comments: true
 		<br><i>Findings of ACL, 2021</i>
 		<br>[<a href = "../assets/bibtex/explaining_mice.bib">BibTex</a>] [<a href="https://github.com/allenai/mice">Code</a>] [<a href="https://underline.io/lecture/26427-explaining-nlp-models-via-minimal-contrastive-editing-(mice)">Video</a>]
 	</li>
-
 </ul>
+
 <h2>2019</h2>
 
 <ul>
