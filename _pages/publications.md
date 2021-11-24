@@ -37,7 +37,7 @@ comments: true
 	</li>
 </ul>
 
-<h2>2019</h2>
+<strong>2019</strong>
 
 <ul>
 	<li>
