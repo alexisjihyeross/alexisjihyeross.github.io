@@ -42,7 +42,7 @@ ul + h2 {
 
 td {
   font-size: 16px;
-  border: none;
+  border: transparent;
 }
 
 td.date-cell {
@@ -50,6 +50,5 @@ td.date-cell {
 }
 
 table {
-  border-collapse:collapse;
   border-right:solid 20px transparent;
 }
