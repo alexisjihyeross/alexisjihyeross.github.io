@@ -6,6 +6,8 @@ author_profile: true
 comments: true
 ---
 
+<h2>2021</h2>
+
 <ul>
 
 	<li>
@@ -35,11 +37,15 @@ comments: true
 		<br>[<a href = "../assets/bibtex/explaining_mice.bib">BibTex</a>] [<a href="https://github.com/allenai/mice">Code</a>] [<a href="https://underline.io/lecture/26427-explaining-nlp-models-via-minimal-contrastive-editing-(mice)">Video</a>]
 	</li>
 
+</ul>
+<h2>2019</h2>
+
+<ul>
 	<li>
 		<a href = "https://aclanthology.org/D19-1228/">How well do NLI models capture verb veridicality?</a> 
 		<br><strong>Alexis Ross</strong> and Ellie Pavlick
 		<br><i>EMNLP, 2019</i> 
-		<br><strong>Oral Presentation</strong> 
+		<strong>Oral Presentation</strong> 
 		<br>[<a href="../assets/bibtex/verb_veridicality.bib">BibTex</a>] [<a href="https://github.com/alexisjihyeross/verb_veridicality">Dataset</a>] [<a href="../assets/pdfs/verb_veridicality_supplement.pdf">Supplement</a>] [<a href="../assets/pdfs/verb_veridicality_slides.pdf">Slides</a>] 
 	</li> 
 
