@@ -1,6 +1,8 @@
 ---
 title:  "Publications"
 layout: archive 
+classes: 
+  - wide
 permalink: /publications/
 author_profile: true
 comments: true
