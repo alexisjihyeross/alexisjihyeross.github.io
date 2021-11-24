@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-<strong>2021</strong>
+<h2>2021</h2>
 
 <ul>
 	<li>
@@ -37,7 +37,7 @@ comments: true
 	</li>
 </ul>
 
-<strong>2019</strong>
+<h>2019</h2>
 
 <ul>
 	<li>
