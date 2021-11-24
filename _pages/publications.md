@@ -43,16 +43,14 @@ comments: true
 	<li>
 		<a href = "https://aclanthology.org/D19-1228/">How well do NLI models capture verb veridicality?</a> 
 		<br><strong>Alexis Ross</strong> and Ellie Pavlick
-		<br><i>EMNLP, 2019</i> 
-		<strong>Oral Presentation</strong> 
+		<br><i>EMNLP, 2019</i> (<strong>Oral Presentation</strong>) 
 		<br>[<a href="../assets/bibtex/verb_veridicality.bib">BibTex</a>] [<a href="https://github.com/alexisjihyeross/verb_veridicality">Dataset</a>] [<a href="../assets/pdfs/verb_veridicality_supplement.pdf">Supplement</a>] [<a href="../assets/pdfs/verb_veridicality_slides.pdf">Slides</a>] 
 	</li> 
 
 	<li>
 		<a href = "https://aclanthology.org/S19-1026/">Probing what different NLP tasks teach machines about function word comprehension</a>
 		<br>Najoung Kim, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, <strong>Alexis Ross</strong>, Tal Linzen, Benjamin Van Durme, Sam Bowman, Ellie Pavlick
-		<br><i>*SEM, 2019</i> 
-		<br><strong>Best Paper Award</strong> 
+		<br><i>*SEM, 2019</i> (<strong>Best Paper Award</strong>) 
 		<br>[<a href = "../assets/bibtex/function_words.bib">BibTex</a>]
 	</li>
 
@@ -65,7 +63,7 @@ comments: true
 	<li>
 		<a href = "https://dash.harvard.edu/bitstream/handle/1/37364684/ROSS-SENIORTHESIS-2020.pdf?isAllowed=y&sequence=1">Using Linear Approximations to Explain Complex, Blackbox Classifiers</a>
 		<br>Advised by Hima Lakkaraju and Bernhard Nickel. 
-		<br><i>Joint Senior Thesis, Computer Science and Philosophy, 2020</i>. 
+		<br><i>Senior Thesis, Computer Science and Philosophy, 2020</i>. 
 		<br><strong>Hoopes Prize</strong>
 	</li>
 </ul>
