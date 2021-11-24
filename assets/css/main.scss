@@ -40,7 +40,10 @@ ul + h2 {
   opacity: 1;
 }
 
-.news-table {
+td {
   font-size: 16px;
+}
+
+table.news-table {
   border-collapse:collapse;
 }
