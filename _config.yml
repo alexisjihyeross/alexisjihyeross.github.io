@@ -133,6 +133,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar"
+      url: "https://www.semanticscholar.org/author/Alexis-Ross/32739287"
 
 # Site Footer
 footer:
