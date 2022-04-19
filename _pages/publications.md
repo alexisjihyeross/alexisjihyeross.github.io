@@ -14,10 +14,13 @@ comments: true
 	<li>
 		<a href = "https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a>
 		<br><strong>Alexis Ross*</strong>, Tongshuang Wu*, Hao Peng, Matthew E. Peters, Matt Gardner
-		<br><i>Preprint, 2021</i>
+		<br><i>ACL, 2022</i>
 		<br>[<a href = "../assets/bibtex/tailor.bib">BibTex</a>] [<a href="https://huggingface.co/allenai/tailor">Generator</a>]
 	</li>
+</ul>
+<h2>2021</h2>
 
+<ul>
 	<li>
 		<a href = "https://arxiv.org/abs/2011.06146">Learning Models for Actionable Recourse</a>
 		<br><strong>Alexis Ross</strong>, Himabindu Lakkaraju, Osbert Bastani
