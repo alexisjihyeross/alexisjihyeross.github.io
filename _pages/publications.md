@@ -15,6 +15,7 @@ comments: true
 		<a href = "https://arxiv.org/abs/2210.13575">Does Self-Rationalization Improve Robustness to Spurious Correlations?</a>
 		<br><strong>Alexis Ross</strong>, Matthew E. Peters, Ana Marasovic 
 		<br><i>EMNLP, 2022</i>
+	</li>
 	<li>
 		<a href = "https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a>
 		<br><strong>Alexis Ross*</strong>, Tongshuang Wu*, Hao Peng, Matthew E. Peters, Matt Gardner
