@@ -20,7 +20,7 @@ comments: true
 		<a href = "https://arxiv.org/abs/2107.07150">Tailor: Generating and Perturbing Text with Semantic Controls</a>
 		<br><strong>Alexis Ross*</strong>, Tongshuang Wu*, Hao Peng, Matthew E. Peters, Matt Gardner
 		<br><i>ACL, 2022</i>
-		<br>[<a href = "../assets/bibtex/tailor.bib">BibTex</a>] [<a href = "https://github.com/allenai/tailor">Code] [<a href = "https://underline.io/events/284/sessions/10682/lecture/49848-tailor-generating-and-perturbing-text-with-semantic-controls">Video] [<a href="https://huggingface.co/allenai/tailor">Generator</a>]
+		<br>[<a href = "../assets/bibtex/tailor.bib">BibTex</a>] [<a href = "https://github.com/allenai/tailor">Code</a>] [<a href = "https://underline.io/events/284/sessions/10682/lecture/49848-tailor-generating-and-perturbing-text-with-semantic-controls">Video</a>] [<a href="https://huggingface.co/allenai/tailor">Generator</a>]
 	</li>
 </ul>
 <h2>2021</h2>
