@@ -7,6 +7,24 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
+<h2>Preprints</h2>
+<ul>
+	<li>
+		<a href = "https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>
+		<br>Zhaofeng Wu, Linlu Qiu, <strong>Alexis Ross</strong>, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim
+		<br><i>Preprint, 2023</i>
+	</li>
+</ul>
+
+<h2>2023</h2>
+<ul>
+	<li>
+		<a href = "https://arxiv.org/abs/2305.17075">CREST: A Joint Framework for Rationalization and Counterfactual Text Generation</a>
+		<br>Marcos Treviso, <strong>Alexis Ross</strong>, Nuno M. Guerreiro, André F. T. Martins 
+		<br><i>ACL, 2023</i>
+	</li>
+</ul>
+
 
 <h2>2022</h2>
 
