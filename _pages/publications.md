@@ -14,6 +14,12 @@ comments: true
 		<br>Zhaofeng Wu, Linlu Qiu, <strong>Alexis Ross</strong>, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim
 		<br><i>Preprint, 2023</i>
 	</li>
+	
+	<li>
+		<a href = "https://arxiv.org/abs/2306.12587">ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews</a>
+		<br>Mike D'Arcy, <strong>Alexis Ross</strong>, Erin Bransom, Bailey Kuehl, Jonathan Bragg, Tom Hope, Doug Downey
+		<br><i>Preprint, 2023</i>
+	</li>
 </ul>
 
 <h2>2023</h2>
