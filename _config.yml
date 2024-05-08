@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Alexis Ross"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at MIT working on NLP."
+  avatar           : "/assets/images/bio-new.jpg"
+  bio              : "PhD student at MIT working on language models for education."
   location         : "Cambridge, MA"
   email            : alexisro@mit.edu
   github           : "alexisjihyeross"
