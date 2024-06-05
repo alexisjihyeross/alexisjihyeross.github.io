@@ -136,6 +136,9 @@ author:
     - label: "Semantic Scholar"
       icon: "ai ai-semantic-scholar"
       url: "https://www.semanticscholar.org/author/Alexis-Ross/32739287"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=p8Ft6RQAAAAJ&hl=en"
 
 # Site Footer
 footer:

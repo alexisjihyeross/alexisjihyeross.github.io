@@ -7,19 +7,25 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
-<h2>Preprints</h2>
+<h2>2024</h2>
 <ul>
 	<li>
-		<a href = "https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>
-		<br>Zhaofeng Wu, Linlu Qiu, <strong>Alexis Ross</strong>, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim
-		<br><i>Preprint, 2023</i>
+		<a href = "https://arxiv.org/abs/2405.04495">Toward In-Context Teaching: Adapting Examples to Students' Misconceptions</a>
+		<br><strong>Alexis Ross</strong> and Jacob Andreas.
+		<br><i>ACL, 2024</i>
 	</li>
-	
 	<li>
 		<a href = "https://arxiv.org/abs/2306.12587">ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews</a>
 		<br>Mike D'Arcy, <strong>Alexis Ross</strong>, Erin Bransom, Bailey Kuehl, Jonathan Bragg, Tom Hope, Doug Downey
-		<br><i>Preprint, 2023</i>
+		<br><i>ACL, 2024</i>
 	</li>
+	<li>
+		<a href = "https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>
+		<br>Zhaofeng Wu, Linlu Qiu, <strong>Alexis Ross</strong>, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim
+		<br><i>NAACL, 2024</i>
+	</li>
+	
+	
 </ul>
 
 <h2>2023</h2>
