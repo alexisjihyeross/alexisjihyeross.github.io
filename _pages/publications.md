@@ -46,7 +46,7 @@ comments: true
 	</li>
 	<li>
 		<a href = "https://arxiv.org/abs/2306.09479">Inverse Scaling: When Bigger Isn't Better</a>
-		<br>Ian R. McKenzie, ..., <strong>Alexis Ross</strong>Samuel R. Bowman, Ethan Perez
+		<br>Ian R. McKenzie, ..., <strong>Alexis Ross (winning task author)</strong>, ... Najoung Kim, Samuel R. Bowman, Ethan Perez
 		<br><i>TMLR, 2023</i>i>
 	</li>
 </ul>
