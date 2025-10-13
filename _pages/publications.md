@@ -10,6 +10,11 @@ comments: true
 <h2>2025</h2>
 <ul>
 	<li>
+		<a href = "https://www.arxiv.org/abs/2510.05056">Modeling Student Learning with 3.8 Million Program Traces</a>
+		<br><strong>Alexis Ross*</strong>, Megha Srivastava*, Jeremiah Blanchard, Jacob Andreas
+		<br><i>Preprint, 2025</i>
+	</li>
+	<li>
 		<a href = "https://arxiv.org/abs/2406.11830">Language Modeling with Editable External Knowledge</a>
 		<br>Belinda Z. Li, Emmy Liu, <strong>Alexis Ross</strong>, Abbas Zeitoun, Graham Neubig, Jacob Andreas
 		<br><i>NAACL, 2025</i>
