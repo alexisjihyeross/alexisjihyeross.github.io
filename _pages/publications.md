@@ -7,6 +7,15 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
+<h2>2025</h2>
+<ul>
+	<li>
+		<a href = "https://arxiv.org/abs/2406.11830">Language Modeling with Editable External Knowledge</a>
+		<br>Belinda Z. Li, Emmy Liu, <strong>Alexis Ross</strong>strong>, Abbas Zeitoun, Graham Neubig, Jacob Andreas
+		<br><i>NAACL, 2025</i>
+	</li>
+</ul>
+
 <h2>2024</h2>
 <ul>
 	<li>
