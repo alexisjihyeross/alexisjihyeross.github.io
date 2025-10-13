@@ -44,6 +44,11 @@ comments: true
 		<br>Marcos Treviso, <strong>Alexis Ross</strong>, Nuno M. Guerreiro, André F. T. Martins 
 		<br><i>ACL, 2023</i>
 	</li>
+	<li>
+		<a href = "https://arxiv.org/abs/2306.09479">Inverse Scaling: When Bigger Isn't Better</a>
+		<br>Ian R. McKenzie, ..., <strong>Alexis Ross</strong>Samuel R. Bowman, Ethan Perez
+		<br><i>TMLR, 2023</i>i>
+	</li>
 </ul>
 
 
