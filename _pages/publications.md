@@ -11,7 +11,7 @@ comments: true
 <ul>
 	<li>
 		<a href = "https://arxiv.org/abs/2510.11502">Learning to Make MISTAKEs: Modeling Incorrect Student Thinking And Key Errors</a>
-		<br><strong>Alexis Ross*</strong> and Jacob Andreas
+		<br><strong>Alexis Ross</strong> and Jacob Andreas
 		<br><i>Preprint, 2025</i>
 	</li>
 	<li>
