@@ -10,6 +10,11 @@ comments: true
 <h2>2025</h2>
 <ul>
 	<li>
+		<a href = "https://arxiv.org/abs/2510.11502">Learning to Make MISTAKEs: Modeling Incorrect Student Thinking And Key Errors</a>
+		<br><strong>Alexis Ross*</strong> and Jacob Andreas
+		<br><i>Preprint, 2025</i>
+	</li>
+	<li>
 		<a href = "https://www.arxiv.org/abs/2510.05056">Modeling Student Learning with 3.8 Million Program Traces</a>
 		<br><strong>Alexis Ross*</strong>, Megha Srivastava*, Jeremiah Blanchard, Jacob Andreas
 		<br><i>Preprint, 2025</i>
