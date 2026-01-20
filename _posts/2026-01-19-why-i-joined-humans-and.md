@@ -33,8 +33,10 @@ I, along with my coworkers, believe that building models that center humans (and
 
 The past two months have already been an incredible adventure. It turns out that a company that centers human connection and collaboration will **attract some of the best humans**: My coworkers are brilliant, kind, and conscientious. As a bonus, our daily post-lunch walks (featuring very cool wildlife sightings!) and meetings filled with laughter make work that is innately fun feel even more fun. Most importantly though, I've found ikigai for this next chapter – shared with my coworkers – and the work we do every day feels like a step in the direction of what the world needs.
 
-<div class="section-footnotes" markdown="1">
-6. To achieve truly personalized tutors, we need AI models with better theory of mind; methods for simulating students to train and evaluate better tutor models at scale; better methods for clustering to find shared groups of student needs in a given population. Each of these is a whole research direction on its own.
+<div class="section-footnotes">
+<ol start="6">
+<li>To achieve truly personalized tutors, we need AI models with better theory of mind; methods for simulating students to train and evaluate better tutor models at scale; better methods for clustering to find shared groups of student needs in a given population. Each of these is a whole research direction on its own.</li>
+</ol>
 </div>
 
 ---
