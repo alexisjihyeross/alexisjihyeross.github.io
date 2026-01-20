@@ -73,3 +73,24 @@ table {
   }
 }
 
+// Section footnotes (inline at end of sections)
+.section-footnotes {
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+  padding-top: 0.75em;
+  border-top: 1px solid #e0e0e0;
+  font-size: 15px;
+  color: #555;
+  
+  ol, ul {
+    padding-left: 1.5em;
+    margin-left: 0;
+    margin-bottom: 0;
+    list-style-type: decimal;
+  }
+  
+  li, p {
+    margin-bottom: 0.4em;
+  }
+}
+
