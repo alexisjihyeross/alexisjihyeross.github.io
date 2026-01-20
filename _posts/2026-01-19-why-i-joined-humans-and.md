@@ -31,7 +31,7 @@ But when the opportunity to join humans& arose, it felt like the natural next st
 
 I, along with my coworkers, believe that building models that center humans (and collaborations between humans) is necessary to achieve a future with AI that enhances our lives. There are some **fundamental innovations** that are required to get there, and this is hugely exciting as a researcher. We are working on exactly the kinds of challenges that will enable AI to do the magical things that humans can do with each other at their peak, like teaching.
 
-The past two months have already been an incredible adventure. It turns out that a company that centers human connection and collaboration will **attract some of the best humans**: My coworkers are brilliant, kind, and conscientious. As a bonus, our daily post-lunch walks (featuring very cool wildlife sightings!) and meetings filled with laughter make work that is innately fun feel even more fun. Most importantly though, I've found ikigai for this next chapter – shared with my coworkers – and the work we do every day feels like a step in the direction of what the world needs.
+The past couple of months have already been an incredible adventure. It turns out that a company that centers human connection and collaboration will **attract some of the best humans**: My coworkers are brilliant, kind, and conscientious. As a bonus, our daily post-lunch walks (featuring very cool wildlife sightings!) and meetings filled with laughter make work that is innately fun feel even more fun. Most importantly though, I've found ikigai for this next chapter – shared with my coworkers – and the work we do every day feels like a step in the direction of what the world needs.
 
 <div class="section-footnotes">
 <ol start="6">
