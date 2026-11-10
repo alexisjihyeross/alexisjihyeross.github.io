@@ -110,10 +110,10 @@ analytics:
 author:
   name             : "Alexis Ross"
   avatar           : "/assets/images/bio-2024.jpg"
-  bio              : ""
-  location         : "Cambridge, MA"
+  bio              :
+  location         :
   email            : alexisro@mit.edu
-  github           : "alexisjihyeross"
+  github           :
   linkedin         : # "alexis-ross-4a4348138/"
   links:
     - label: "Email"
