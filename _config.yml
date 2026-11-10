@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Alexis Ross"
   avatar           : "/assets/images/bio-2024.jpg"
-  bio              : "PhD student at MIT and founding researcher at humans&."
+  bio              : ""
   location         : "Cambridge, MA"
   email            : alexisro@mit.edu
   github           : "alexisjihyeross"
@@ -134,9 +134,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Semantic Scholar"
-      icon: "ai ai-semantic-scholar"
-      url: "https://www.semanticscholar.org/author/Alexis-Ross/32739287"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=p8Ft6RQAAAAJ&hl=en"
