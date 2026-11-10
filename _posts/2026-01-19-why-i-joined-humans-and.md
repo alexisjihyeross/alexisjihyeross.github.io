@@ -1,4 +1,5 @@
 ---
+layout: modern
 title: "Why I joined humans& and some (belated) reflections on pursuing AI research with meaning"
 date: 2026-01-19
 ---

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }} — Alexis Ross</title>
+<meta name="description" content="{{ page.excerpt | default: page.title | strip_html | normalize_whitespace | escape }}">
+<link rel="stylesheet" href="{{ '/assets/css/modern-home.css' | relative_url }}">
+</head>
+<body class="c">
+<main>
+<header class="site-header">
+<div><h1><a class="home-link" href="{{ '/' | relative_url }}">Alexis Ross</a></h1>
+<nav aria-label="Main navigation">
+<a href="https://scholar.google.com/citations?user=p8Ft6RQAAAAJ&amp;hl=en">Publications</a>
+<a href="{{ '/blog/' | relative_url }}"{% if page.url == '/blog/' %} aria-current="page"{% endif %}>Blog</a>
+</nav></div>
+<img class="portrait" src="{{ '/assets/images/bio-2024.jpg' | relative_url }}" alt="Alexis Ross">
+</header>
+<article class="writing">
+{% if page.date %}
+<a class="back-link" href="{{ '/blog/' | relative_url }}">← All posts</a>
+{% endif %}
+<h2 class="writing-title">{{ page.title | escape }}</h2>
+{% if page.date %}<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>{% endif %}
+{{ content }}
+</article>
+<footer><a href="{{ '/' | relative_url }}">Alexis Ross</a></footer>
+</main>
+</body>
+</html>

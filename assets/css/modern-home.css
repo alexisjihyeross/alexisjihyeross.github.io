@@ -36,3 +36,20 @@ footer{margin-top:55px;padding-top:22px;border-top:1px solid #e5e5df;font-size:1
   nav{gap:16px}
   .news-row{grid-template-columns:75px 1fr;gap:10px}
 }
+
+.home-link{text-decoration:none}
+.writing{max-width:720px;margin:0 auto}
+.writing .writing-title{font-size:30px;line-height:1.3;letter-spacing:-.7px;margin-bottom:24px}
+.writing h2:not(.writing-title){font-size:23px;line-height:1.4;margin:42px 0 20px}
+.writing h3{font-size:21px;line-height:1.45;font-weight:550;margin:12px 0 16px}
+.writing img{max-width:100%;height:auto}
+.writing .post-date{font-size:14px;color:#777;margin-bottom:35px}
+.writing .back-link{display:inline-block;font-size:14px;color:#777;margin-bottom:24px;text-decoration:none}
+.post-entry{border-top:1px solid #ddd;padding-top:24px;margin-top:28px}
+.post-entry h3 a{text-decoration:none}
+.post-entry p{color:#60645c}
+.read-post{font-size:14px}
+.section-footnotes{font-size:14px;color:#666;border-top:1px solid #ddd;margin:28px 0;padding-top:15px}
+.writing blockquote{border-left:2px solid #c7c9bd;margin:28px 0;padding-left:22px;color:#626760}
+.writing pre{overflow-x:auto;padding:16px;background:#efede7}
+@media(max-width:680px){.writing .writing-title{font-size:26px}}
